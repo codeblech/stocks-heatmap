@@ -1,7 +1,7 @@
 # Stocks Heatmap
-Heatmap of changes in stock prices.  
-uses d3js for heatmap (treemap🤓).  
-uses Polygon API, MySQL, PHP at back-end.
+Heatmap of changes in stock prices   
+uses d3js for heatmap (treemap)  
+uses Polygon API, MySQL, PHP at back-end  
 
 ![image](screenshot.png)
 
